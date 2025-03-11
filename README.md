@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm RajibLochan Pramanik</h1>
-<h3 align="center">An Aspiring Data-Scientist from India, exploring AI and Machine-Learning."</h3>
+<h3 align="center">An Aspiring Data-Scientist from India, exploring AI and Machine-Learning.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="rajibpramanik" /> </p>
+<h3>Work</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
