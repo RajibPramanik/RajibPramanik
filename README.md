@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Data-Scientist from India, exploring AI and Machine-Learning.</h3>
 
 
-<h3>Work</h3>
+<h3>Work:</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
