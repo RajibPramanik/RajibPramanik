@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm RajibLochan Pramanik</h1>
-<h3 align="center">An Aspiring Data-Scientist from India, exploring AI and Machine-Learning.</h3>
+<h3 align="center">A Aspiring Data-Scientist from India, exploring AI and Machine-Learning.</h3>
 
 
 <h3>Work:</h3>
