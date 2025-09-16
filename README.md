@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="rajibpramanik" /> </p>
 
-- 🌱 I’m currently learning **Full-stack Java**
+- 🌱 I’m currently learning **Full-stack Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajibPramanik](https://github.com/RajibPramanik)
 
