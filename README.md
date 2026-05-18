@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Rajib Lochan Pramanik</h1>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+     alt="animated gif" 
+     width="300" 
+     align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="rajibpramanik" /> </p>
 
 🌱 I’m currently learning **Full-stack Java development.** <br>👨‍💻 All of my projects are available at https://github.com/RajibPramanik<br>📝 I regularly write articles on https://rajibpramanik04.medium.com/<br>📫 How to reach me **pramanikrajib715@gmail.com**<br>⚡ Fun fact **I am funny** 😎
